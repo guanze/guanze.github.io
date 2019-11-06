@@ -1,0 +1,6 @@
+*.iml
+!.gitkeep
+/.idea/
+/target/
+/src/main/resources/generator/
+/src/test/
